@@ -1,6 +1,5 @@
 pyrogram
-Client
-filtes
+filters
 Message
 ChatPermissions
 MessageHandler
